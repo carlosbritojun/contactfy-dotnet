@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contactfy.Domain", "Contactfy.Domain\Contactfy.Domain.csproj", "{DFDBDA4C-1F39-4D7C-A988-590B907D92EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contactfy.Shared", "Contactfy.Shared\Contactfy.Shared.csproj", "{6A0E183E-0DDD-4B9A-9C62-5B1E4FA5A7D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDBDA4C-1F39-4D7C-A988-590B907D92EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDBDA4C-1F39-4D7C-A988-590B907D92EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDBDA4C-1F39-4D7C-A988-590B907D92EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDBDA4C-1F39-4D7C-A988-590B907D92EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0E183E-0DDD-4B9A-9C62-5B1E4FA5A7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0E183E-0DDD-4B9A-9C62-5B1E4FA5A7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0E183E-0DDD-4B9A-9C62-5B1E4FA5A7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0E183E-0DDD-4B9A-9C62-5B1E4FA5A7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E54A56-EEBF-4905-A0C7-9E0744F31D76}
+	EndGlobalSection
+EndGlobal
